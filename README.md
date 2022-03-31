@@ -5,3 +5,10 @@ default priors; prior distribution; bayesian inference;
 ### A bayesian method for the evaluation of segmented gamma scanning measurements - Description of the principle (Bucherl, 2021)
 - 73 segment, 24 sector로 나누어 측정. 검출기 콜리메이터는 4 cm 개방. position당 20초 측정. 드럼 중심에서 검출기까지 거리 70 cm.
 - Eu-152 측정
+
+### Coupling gamma ray spectrometry and tomography in a Bayesian frame (Carasco, 2021)
+- HPGe 한 대로 90도 간격 네 번 측정, 2 cm slice로 segment 구분
+
+### Bayesian inference of 1D activity profiles from segmented gamma scanning of a heterogeneous radioactive waste drum (Laloy, 2021)
+- 1층과 20층은 2.34 cm, 가운데 층은 4.68 cm slice로 segment 구분
+- 균질효율과 가운데 hotspot 효율을 \lambda로 가중치 주어 효율계산
