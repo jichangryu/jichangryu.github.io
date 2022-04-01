@@ -10,7 +10,7 @@
 - 1층과 20층은 2.34 cm, 가운데 층은 4.68 cm slice로 segment 구분
 - 균질효율과 가운데 hotspot 효율을 가중치 주어 그 사이 효율계산
 
-
+---
 ## Else
 ### The prior can often only be understood in the context of the likelihood (Gelman, 2017)
 default priors; prior distribution; bayesian inference;  
