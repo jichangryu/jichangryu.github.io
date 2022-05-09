@@ -15,3 +15,6 @@
 ### The prior can often only be understood in the context of the likelihood (Gelman, 2017)
 default priors; prior distribution; bayesian inference;  
 - prior는 객관적, 주관적이라는 구분보다는 모델에 적절한 가정을 더해주는 장치로 이해하는게 합리적인 해석방법이다.
+
+### A Bayesian method for detecting stellar flares
+- peak search, bayes MDA 개념에 응용할만하다. Odds ratio로 peak 유무를 파악한다. 시그널이 생성되는 모델을 rise: gaussian, fall:exponential decay로 설정하고 분석. 두 분포에 필요한 인자 4개를 찾는 걸 베이지안으로 수행.
