@@ -5,7 +5,7 @@ date: "2023-09-03"
 # data-modified: "2023-09-02"
 categories: [english]
 # image:
-# toc: false
+toc: false
 ---
 
 ## 리뷰어들에게 고마움 표현
