@@ -1,0 +1,16 @@
+---
+title: "Oliveira-2023-Artificial"
+author: "류지창"
+date: "2023-09-01"
+categories: [generative_model]
+toc: false
+# image:
+---
+
+## 요약
+논문요약
+
+## 주요 내용
+- attenuation에 의한 스펙트럼 변형을 bin마다 강제로 exponential 적용해주는 방법을 사용했다. 근사방식이라고 봐야겠지.
+
+![](Screenshot from 2023-09-01 23-52-38.png){fig-align="center"}
