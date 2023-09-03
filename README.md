@@ -1,2 +1,2 @@
-# 웹페이지
-[jichangryu.github.io](http://jichangryu.github.io)
+Don't hurry but never rest.  
+Everything great has its own time.
