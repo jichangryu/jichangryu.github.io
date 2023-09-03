@@ -1,2 +1,3 @@
 Don't hurry but never rest.
-Everythin great has its own time.
+
+Everything great has its own time.
