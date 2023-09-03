@@ -1,26 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "notes",
-    "section": "",
-    "text": "Date\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nSep 3, 2023\n\n\nEnglish\n\n\n류지창 \n\n\n\n\nSep 1, 2023\n\n\nOliveira-2023-Artificial\n\n\n류지창 \n\n\n\n\nSep 1, 2023\n\n\nLog\n\n\n류지창 \n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "posts/English/index.html",
-    "href": "posts/English/index.html",
-    "title": "English",
-    "section": "",
-    "text": "The authors would like to thank the editor and reviewers for the comments and recommendations, which has led to a significant improvement of the paper."
-  },
-  {
-    "objectID": "posts/English/index.html#리뷰어들에게-고마움-표현",
-    "href": "posts/English/index.html#리뷰어들에게-고마움-표현",
-    "title": "English",
-    "section": "",
-    "text": "The authors would like to thank the editor and reviewers for the comments and recommendations, which has led to a significant improvement of the paper."
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
@@ -47,6 +26,34 @@
     "title": "Oliveira-2023-Artificial",
     "section": "주요 내용",
     "text": "주요 내용\n\nattenuation에 의한 스펙트럼 변형을 bin마다 강제로 exponential 적용해주는 방법을 사용했다. 근사방식이라고 봐야겠지."
+  },
+  {
+    "objectID": "posts/Colletor/index.html",
+    "href": "posts/Colletor/index.html",
+    "title": "Collector",
+    "section": "",
+    "text": "Don’t hurry but never rest. Everythin great has its own time."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "notes",
+    "section": "",
+    "text": "Date\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nSep 3, 2023\n\n\nCollector\n\n\n류지창 \n\n\n\n\nSep 3, 2023\n\n\nEnglish\n\n\n류지창 \n\n\n\n\nSep 1, 2023\n\n\nOliveira-2023-Artificial\n\n\n류지창 \n\n\n\n\nSep 1, 2023\n\n\nLog\n\n\n류지창 \n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/English/index.html",
+    "href": "posts/English/index.html",
+    "title": "English",
+    "section": "",
+    "text": "The authors would like to thank the editor and reviewers for the comments and recommendations, which has led to a significant improvement of the paper."
+  },
+  {
+    "objectID": "posts/English/index.html#리뷰어들에게-고마움-표현",
+    "href": "posts/English/index.html#리뷰어들에게-고마움-표현",
+    "title": "English",
+    "section": "",
+    "text": "The authors would like to thank the editor and reviewers for the comments and recommendations, which has led to a significant improvement of the paper."
   },
   {
     "objectID": "posts/Log/index.html",
