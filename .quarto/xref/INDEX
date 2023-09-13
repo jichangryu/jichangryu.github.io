@@ -34,5 +34,11 @@
   },
   "posts/Colletor/index.qmd": {
     "index.html": "ce7e4c0b"
+  },
+  "posts/books/index.qmd": {
+    "index.html": "72cc32c5"
+  },
+  "posts/papers/index.qmd": {
+    "index.html": "5c83e9fa"
   }
 }

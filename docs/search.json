@@ -39,7 +39,7 @@
     "href": "index.html",
     "title": "notes",
     "section": "",
-    "text": "Date\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nSep 3, 2023\n\n\n&lt;걷는 독서&gt; 박노해\n\n\n류지창 \n\n\n\n\nSep 3, 2023\n\n\nEnglish\n\n\n류지창 \n\n\n\n\nSep 1, 2023\n\n\nOliveira-2023-Artificial\n\n\n류지창 \n\n\n\n\nSep 1, 2023\n\n\nLog\n\n\n류지창 \n\n\n\n\n\n\nNo matching items"
+    "text": "Date\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nSep 14, 2023\n\n\npapers\n\n\n류지창 \n\n\n\n\nSep 14, 2023\n\n\nbooks\n\n\n류지창 \n\n\n\n\nSep 3, 2023\n\n\n&lt;걷는 독서&gt; 박노해\n\n\n류지창 \n\n\n\n\nSep 3, 2023\n\n\nEnglish\n\n\n류지창 \n\n\n\n\nSep 1, 2023\n\n\nOliveira-2023-Artificial\n\n\n류지창 \n\n\n\n\nSep 1, 2023\n\n\nLog\n\n\n류지창 \n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/English/index.html",
@@ -96,5 +96,33 @@
     "title": "Log",
     "section": "2023-09-04 월 (19:39)",
     "text": "2023-09-04 월 (19:39)\n오늘 오랜만에 GAN을 돌리고 결과를 봤다. 근 한 달만에 얻은 결과다. 8월초 휴학승인 후 슬럼프였는데 오늘부로 다시 극복해나가고 있다. 우선 첫 번째로 실행할 건 todo 리스트 만들기다. 주머니에 항상 넣어다닐 수 있는 무인양품 포켓노트에 할 일을 디테일하게 빠짐없이 나열한다. 그리고 매일 그걸 지우지 전에 잠에 들지 않는다. 그 다음으로는 모래시계. 15분짜리로 오늘 주문했다. 허준이 수학자가 매일 연구집중을 위해 15분짜리 모래시계를 쓴다는 기사를 보고 나도 동참했다. 15분이면 충분하다. 시작만 하면 나는 동력을 얻는다. 15분 타임어택으로 계속 시작을 시도하자."
+  },
+  {
+    "objectID": "posts/books/index.html",
+    "href": "posts/books/index.html",
+    "title": "books",
+    "section": "",
+    "text": "최우선 목표는 매주 이 페이지를 보며 책을 아래쪽으로 이동시키는 거다. 잠이 와도 힘들게 버티며 공부하는게 공부다. 잠온다고 다 자면 책은 언제보나.\n\n읽어야 되는 책 목록\n\n저자, 제목\n\n\n\n읽은 책 목록\n\n(읽은 날) 저자, 제목\n\n\n\n읽은 책 중 요약자료 만든 책 목록"
+  },
+  {
+    "objectID": "posts/papers/index.html",
+    "href": "posts/papers/index.html",
+    "title": "papers",
+    "section": "",
+    "text": "최우선 목표는 매주 이 페이지를 보며 논문을 아래쪽으로 이동시키는 거다. 잠이 와도 힘들게 버티며 공부하는게 공부다. 잠온다고 다 자면 논문은 언제보나.\n\n읽어야 되는 논문 목록\n\n저자, 발행연도, 제목\n\n\n\n읽은 논문 목록\n\n(읽은 날) 저자, 발행연도, 제목\n\n\n\n읽은 논문 중 요약자료 만든 논문 목록\n\n(읽은 날) 저자, 발행연도, 제목 [v1: 요약자료 v.1 만든 날] [v2: 요약자료 v.2 만든 날] …"
+  },
+  {
+    "objectID": "posts/books/index.html#읽은-논문-중-요약자료-만든-책-목록",
+    "href": "posts/books/index.html#읽은-논문-중-요약자료-만든-책-목록",
+    "title": "books",
+    "section": "### 읽은 논문 중 요약자료 만든 책 목록",
+    "text": "### 읽은 논문 중 요약자료 만든 책 목록"
+  },
+  {
+    "objectID": "posts/books/index.html#읽은-책-중-요약자료-만든-책-목록",
+    "href": "posts/books/index.html#읽은-책-중-요약자료-만든-책-목록",
+    "title": "books",
+    "section": "### 읽은 책 중 요약자료 만든 책 목록",
+    "text": "### 읽은 책 중 요약자료 만든 책 목록"
   }
 ]

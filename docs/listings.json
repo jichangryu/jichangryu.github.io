@@ -2,6 +2,8 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/papers/index.html",
+      "/posts/books/index.html",
       "/posts/Colletor/index.html",
       "/posts/English/index.html",
       "/posts/Oliveira-2023-Artificial/index.html",
