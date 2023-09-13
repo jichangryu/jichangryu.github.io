@@ -8,5 +8,5 @@ categories: [collection]
 toc: false
 ---
 
-Don't hurry but never rest.
-Everythin great has its own time.
+Don't hurry but never rest.  
+Everything great has its own time.
