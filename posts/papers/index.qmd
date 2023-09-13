@@ -13,6 +13,8 @@ toc: false
 
 ### 읽어야 되는 논문 목록
 - 저자, 발행연도, 제목
+- Gretton, 2008, A kernel method for the two-sample problem
+    - 코드실행: https://www.kaggle.com/code/onurtunali/maximum-mean-discrepancy
 
 ### 읽은 논문 목록
 - (읽은 날) 저자, 발행연도, 제목

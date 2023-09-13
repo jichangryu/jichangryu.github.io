@@ -109,7 +109,7 @@
     "href": "posts/papers/index.html",
     "title": "papers",
     "section": "",
-    "text": "최우선 목표는 매주 이 페이지를 보며 논문을 아래쪽으로 이동시키는 거다. 잠이 와도 힘들게 버티며 공부하는게 공부다. 잠온다고 다 자면 논문은 언제보나.\n\n읽어야 되는 논문 목록\n\n저자, 발행연도, 제목\n\n\n\n읽은 논문 목록\n\n(읽은 날) 저자, 발행연도, 제목\n\n\n\n읽은 논문 중 요약자료 만든 논문 목록\n\n(읽은 날) 저자, 발행연도, 제목 [v1: 요약자료 v.1 만든 날] [v2: 요약자료 v.2 만든 날] …"
+    "text": "최우선 목표는 매주 이 페이지를 보며 논문을 아래쪽으로 이동시키는 거다. 잠이 와도 힘들게 버티며 공부하는게 공부다. 잠온다고 다 자면 논문은 언제보나.\n\n읽어야 되는 논문 목록\n\n저자, 발행연도, 제목\nGretton, 2008, A kernel method for the two-sample problem\n\n코드실행: https://www.kaggle.com/code/onurtunali/maximum-mean-discrepancy\n\n\n\n\n읽은 논문 목록\n\n(읽은 날) 저자, 발행연도, 제목\n\n\n\n읽은 논문 중 요약자료 만든 논문 목록\n\n(읽은 날) 저자, 발행연도, 제목 [v1: 요약자료 v.1 만든 날] [v2: 요약자료 v.2 만든 날] …"
   },
   {
     "objectID": "posts/books/index.html#읽은-논문-중-요약자료-만든-책-목록",
