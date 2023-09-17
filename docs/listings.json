@@ -2,10 +2,12 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/강유원의-노트정리방법/index.html",
       "/posts/papers/index.html",
+      "/posts/tools/index.html",
       "/posts/books/index.html",
-      "/posts/Colletor/index.html",
       "/posts/English/index.html",
+      "/posts/걷는-독서-박노해/index.html",
       "/posts/Oliveira-2023-Artificial/index.html",
       "/posts/Log/index.html"
     ]

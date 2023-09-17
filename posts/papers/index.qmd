@@ -11,13 +11,17 @@ toc: false
 잠이 와도 힘들게 버티며 공부하는게 공부다. 잠온다고 다 자면 논문은 언제보나.
 
 
-### 읽어야 되는 논문 목록
+## 읽어야 되는 논문 목록
 - 저자, 발행연도, 제목
-- Gretton, 2008, A kernel method for the two-sample problem
+
+
+
+## 읽은 논문 목록
+- (읽은 날) 저자, 발행연도, 제목
+- (2023-09-14) Gretton, 2008, A kernel method for the two-sample problem
     - 코드실행: https://www.kaggle.com/code/onurtunali/maximum-mean-discrepancy
 
-### 읽은 논문 목록
-- (읽은 날) 저자, 발행연도, 제목
 
-### 읽은 논문 중 요약자료 만든 논문 목록
+
+## 읽은 논문 중 요약자료 만든 논문 목록
 - (읽은 날) 저자, 발행연도, 제목 [v1: 요약자료 v.1 만든 날] [v2: 요약자료 v.2 만든 날] ...

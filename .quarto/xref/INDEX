@@ -40,5 +40,14 @@
   },
   "posts/papers/index.qmd": {
     "index.html": "5c83e9fa"
+  },
+  "posts/tools/index.qmd": {
+    "index.html": "2b09fd38"
+  },
+  "posts/강유원의-노트정리방법/index.qmd": {
+    "index.html": "27637bfd"
+  },
+  "posts/걷는-독서-박노해/index.qmd": {
+    "index.html": "497debb8"
   }
 }
