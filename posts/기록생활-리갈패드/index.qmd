@@ -1,0 +1,18 @@
+---
+title: "기록생활: 리갈패드 편"
+author: "류지창"
+date: "2023-09-22"
+date-modified: last-modified
+categories: [memo]
+toc: false
+# image:
+---
+이 사진들을 보고 시작하자.
+![](허준이 교수 연구노트 작성모습과 책상.png){fig-align="center"}
+![](오바마의 리갈패드.png){fig-align="center"}
+![](oliver sacks의 리갈패드.png){fig-align="center"}
+![](oliver sacks의 리갈패드2.png){fig-align="center"}
+
+
+[올리버 색스 리갈패드 출처](https://www.themarginalian.org/2017/03/07/oliver-sacks-notebooks/)
+
