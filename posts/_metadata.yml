@@ -13,6 +13,5 @@ comments:
     category: "comments"
     mapping: pathname
     input-position: top
-    loading: lazy
     theme: light
     language: "ko"
