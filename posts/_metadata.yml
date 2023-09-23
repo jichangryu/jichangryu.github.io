@@ -6,3 +6,13 @@ freeze: true
 
 # Enable banner style title blocks
 title-block-banner: false
+
+comments: 
+  giscus: 
+    repo: jichangryu/comments
+    category: "comments"
+    mapping: pathname
+    input-position: top
+    loading: lazy
+    theme: light
+    language: "ko"
