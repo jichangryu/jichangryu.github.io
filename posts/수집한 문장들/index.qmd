@@ -1,5 +1,5 @@
 ---
-title: "<걷는 독서> 박노해"
+title: "수집한 문장들"
 author: "류지창"
 date: "2023-09-03"
 data-modified: last-modified
@@ -8,5 +8,6 @@ categories: [수집]
 toc: false
 ---
 
+### <걷는독서> 박노해
 Don't hurry but never rest.  
 Everything great has its own time.
