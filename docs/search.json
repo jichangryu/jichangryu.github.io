@@ -39,7 +39,7 @@
     "href": "index.html",
     "title": "Home",
     "section": "",
-    "text": "Title\n\n\n\n\n\n\n[논문리뷰] Artificial gamma ray spectra simulation using Generative Adversarial Networks (GANs) and Supervised Generative Networks (SGNs)\n\n\n\n\n기록생활: 리갈패드 편\n\n\n\n\n기록생활: 연필 편\n\n\n\n\n노트 정리방법\n\n\n\n\n논문영어 표현\n\n\n\n\n수집한 문장들\n\n\n\n\n읽은 논문과 책 (2023년)\n\n\n\n\n\n\nNo matching items"
+    "text": "Title\n\n\n\n\n\n\n2023년 기록\n\n\n\n\n[논문리뷰] Artificial gamma ray spectra simulation using Generative Adversarial Networks (GANs) and Supervised Generative Networks (SGNs)\n\n\n\n\n기록생활: 리갈패드 편\n\n\n\n\n기록생활: 연필 편\n\n\n\n\n노트 정리방법\n\n\n\n\n논문영어 표현\n\n\n\n\n수집한 문장들\n\n\n\n\n읽은 논문과 책 (2023년)\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/English/index.html",
@@ -306,5 +306,19 @@
     "title": "읽은 논문과 책 (2023년)",
     "section": "읽은 책 목록",
     "text": "읽은 책 목록"
+  },
+  {
+    "objectID": "posts/2023년 기록/index.html",
+    "href": "posts/2023년 기록/index.html",
+    "title": "2023년 기록",
+    "section": "",
+    "text": "quarto를 이용한 웹사이트 정비를 완료했다. 이제 댓글기능까지 가능하기 때문에 웹사이트로서의 기능을 온전히 할 수 있다. 매일의 전진을 여기에 조금씩 기록하자. 나의 목적은 오로지 어제보다 나은 내가 되는 것이다. 그걸 위해 사용가능한 모든 도구를 쓴다. 이 사이트도 그런 의미에서 활용된다."
+  },
+  {
+    "objectID": "posts/2023년 기록/index.html#section",
+    "href": "posts/2023년 기록/index.html#section",
+    "title": "2023년 기록",
+    "section": "",
+    "text": "quarto를 이용한 웹사이트 정비를 완료했다. 이제 댓글기능까지 가능하기 때문에 웹사이트로서의 기능을 온전히 할 수 있다. 매일의 전진을 여기에 조금씩 기록하자. 나의 목적은 오로지 어제보다 나은 내가 되는 것이다. 그걸 위해 사용가능한 모든 도구를 쓴다. 이 사이트도 그런 의미에서 활용된다."
   }
 ]
