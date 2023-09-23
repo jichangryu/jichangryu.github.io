@@ -3,7 +3,17 @@ project:
   output-dir: docs
 
 website:
-  title: "Main"
+  title: "Home"
+  comments: 
+    giscus: 
+      repo: https://github.com/jichangryu/comments
+      category: "comments"
+      mapping: pathname
+      input-position: top
+      loading: lazy
+      theme: light
+      language: "ko"
+
   navbar:
     right:
       - text: "About"

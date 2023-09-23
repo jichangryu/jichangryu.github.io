@@ -3,7 +3,7 @@ title: "노트 정리방법"
 author: "류지창"
 date: "2023-09-17"
 date-modified: last-modified
-categories: [기록]
+categories: [기록생활]
 toc: false
 # image:
 ---

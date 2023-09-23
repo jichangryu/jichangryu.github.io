@@ -3,7 +3,7 @@ title: "수집한 문장들"
 author: "류지창"
 date: "2023-09-03"
 data-modified: last-modified
-categories: [수집]
+categories: [문장수집]
 # image:
 toc: false
 ---
