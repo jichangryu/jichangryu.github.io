@@ -39,7 +39,7 @@
     "href": "index.html",
     "title": "Home",
     "section": "",
-    "text": "Title\n\n\n\n\n\n\n[논문리뷰] Artificial gamma ray spectra simulation using Generative Adversarial Networks (GANs) and Supervised Generative Networks (SGNs)\n\n\n\n\n기록생활: 리갈패드 편\n\n\n\n\n기록생활: 연필 편\n\n\n\n\n노트 정리방법\n\n\n\n\n논문영어 표현\n\n\n\n\n수집한 문장들\n\n\n\n\n읽은 논문\n\n\n\n\n\n\nNo matching items"
+    "text": "Title\n\n\n\n\n\n\n[논문리뷰] Artificial gamma ray spectra simulation using Generative Adversarial Networks (GANs) and Supervised Generative Networks (SGNs)\n\n\n\n\n기록생활: 리갈패드 편\n\n\n\n\n기록생활: 연필 편\n\n\n\n\n노트 정리방법\n\n\n\n\n논문영어 표현\n\n\n\n\n수집한 문장들\n\n\n\n\n읽은 논문(2023년)\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/English/index.html",
@@ -268,16 +268,16 @@
   {
     "objectID": "posts/읽은논문 정리/index.html",
     "href": "posts/읽은논문 정리/index.html",
-    "title": "읽은 논문",
+    "title": "읽은 논문(2023년)",
     "section": "",
-    "text": "최우선 목표는 매주 이 페이지를 보며 논문을 아래쪽으로 이동시키는 거다. 잠이 와도 힘들게 버티며 공부하는게 공부다. 잠온다고 다 자면 논문은 언제보나."
+    "text": "잠이 와도 힘들게 버티며 공부하는게 공부다. 잠온다고 다 자면 논문은 언제보나."
   },
   {
     "objectID": "posts/읽은논문 정리/index.html#읽은-논문-목록",
     "href": "posts/읽은논문 정리/index.html#읽은-논문-목록",
-    "title": "읽은 논문",
+    "title": "읽은 논문(2023년)",
     "section": "읽은 논문 목록",
-    "text": "읽은 논문 목록\n\n(읽은 날) 저자, 발행연도, 제목\n(2023-09-14) Gretton, 2008, A kernel method for the two-sample problem\n\n코드실행: https://www.kaggle.com/code/onurtunali/maximum-mean-discrepancy"
+    "text": "읽은 논문 목록\n\n2023-09-14, A kernel method for the two-sample problem (Gretton, 2008)\n\nMMD 코드: https://www.kaggle.com/code/onurtunali/maximum-mean-discrepancy"
   },
   {
     "objectID": "posts/읽은논문 정리/index.html#읽은-논문-중-요약자료-만든-논문-목록",

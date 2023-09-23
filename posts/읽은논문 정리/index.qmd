@@ -1,5 +1,5 @@
 ---
-title: "읽은 논문"
+title: "읽은 논문(2023년)"
 author: "류지창"
 date: "2023-09-14"
 date-modified: last-modified
@@ -7,14 +7,9 @@ categories: [논문리뷰]
 toc: false
 # image:
 ---
-최우선 목표는 매주 이 페이지를 보며 논문을 아래쪽으로 이동시키는 거다.
 잠이 와도 힘들게 버티며 공부하는게 공부다. 잠온다고 다 자면 논문은 언제보나.
 
 ## 읽은 논문 목록
-- (읽은 날) 저자, 발행연도, 제목
-- (2023-09-14) Gretton, 2008, A kernel method for the two-sample problem
-    - 코드실행: https://www.kaggle.com/code/onurtunali/maximum-mean-discrepancy
+- 2023-09-14, A kernel method for the two-sample problem (Gretton, 2008)
+    - MMD 코드: https://www.kaggle.com/code/onurtunali/maximum-mean-discrepancy
 
-
-## 읽은 논문 중 요약자료 만든 논문 목록
-- (읽은 날) 저자, 발행연도, 제목 [v1: 요약자료 v.1 만든 날] [v2: 요약자료 v.2 만든 날] ...
