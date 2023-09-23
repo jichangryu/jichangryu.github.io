@@ -9,9 +9,9 @@
   {
     "objectID": "posts/Oliveira-2023-Artificial/index.html",
     "href": "posts/Oliveira-2023-Artificial/index.html",
-    "title": "Oliveira-2023-Artificial",
+    "title": "[논문리뷰] Artificial gamma ray spectra simulation using Generative Adversarial Networks (GANs) and Supervised Generative Networks (SGNs)",
     "section": "",
-    "text": "논문요약"
+    "text": "Paper\nFelipe M.F. de Oliveira, G. Daniel, O. Limousin\nFebruary 2023"
   },
   {
     "objectID": "posts/Oliveira-2023-Artificial/index.html#요약",
@@ -39,7 +39,7 @@
     "href": "index.html",
     "title": "notes",
     "section": "",
-    "text": "Date\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nSep 22, 2023\n\n\n기록생활: 리갈패드 편\n\n\n류지창 \n\n\n\n\nSep 17, 2023\n\n\n노트 정리방법\n\n\n류지창 \n\n\n\n\nSep 14, 2023\n\n\npapers\n\n\n류지창 \n\n\n\n\nSep 14, 2023\n\n\n기록생활: 연필 편\n\n\n류지창 \n\n\n\n\nSep 14, 2023\n\n\nbooks\n\n\n류지창 \n\n\n\n\nSep 3, 2023\n\n\nEnglish\n\n\n류지창 \n\n\n\n\nSep 3, 2023\n\n\n&lt;걷는 독서&gt; 박노해\n\n\n류지창 \n\n\n\n\nSep 1, 2023\n\n\nOliveira-2023-Artificial\n\n\n류지창 \n\n\n\n\nSep 1, 2023\n\n\nLog\n\n\n류지창 \n\n\n\n\n\n\nNo matching items"
+    "text": "Date\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nSep 23, 2023\n\n\n[논문리뷰] Artificial gamma ray spectra simulation using Generative Adversarial Networks (GANs) and Supervised Generative Networks (SGNs)\n\n\n류지창 \n\n\n\n\nSep 22, 2023\n\n\n기록생활: 리갈패드 편\n\n\n류지창 \n\n\n\n\nSep 17, 2023\n\n\n노트 정리방법\n\n\n류지창 \n\n\n\n\nSep 14, 2023\n\n\n기록생활: 연필 편\n\n\n류지창 \n\n\n\n\nSep 14, 2023\n\n\n읽은 논문\n\n\n류지창 \n\n\n\n\nSep 3, 2023\n\n\n&lt;걷는 독서&gt; 박노해\n\n\n류지창 \n\n\n\n\nSep 3, 2023\n\n\n논문영어 표현\n\n\n류지창 \n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/English/index.html",
@@ -107,7 +107,7 @@
   {
     "objectID": "posts/papers/index.html",
     "href": "posts/papers/index.html",
-    "title": "papers",
+    "title": "읽은 논문",
     "section": "",
     "text": "최우선 목표는 매주 이 페이지를 보며 논문을 아래쪽으로 이동시키는 거다. 잠이 와도 힘들게 버티며 공부하는게 공부다. 잠온다고 다 자면 논문은 언제보나."
   },
@@ -170,14 +170,14 @@
   {
     "objectID": "posts/papers/index.html#읽은-논문-목록",
     "href": "posts/papers/index.html#읽은-논문-목록",
-    "title": "papers",
+    "title": "읽은 논문",
     "section": "읽은 논문 목록",
     "text": "읽은 논문 목록\n\n(읽은 날) 저자, 발행연도, 제목\n(2023-09-14) Gretton, 2008, A kernel method for the two-sample problem\n\n코드실행: https://www.kaggle.com/code/onurtunali/maximum-mean-discrepancy"
   },
   {
     "objectID": "posts/papers/index.html#읽은-논문-중-요약자료-만든-논문-목록",
     "href": "posts/papers/index.html#읽은-논문-중-요약자료-만든-논문-목록",
-    "title": "papers",
+    "title": "읽은 논문",
     "section": "읽은 논문 중 요약자료 만든 논문 목록",
     "text": "읽은 논문 중 요약자료 만든 논문 목록\n\n(읽은 날) 저자, 발행연도, 제목 [v1: 요약자료 v.1 만든 날] [v2: 요약자료 v.2 만든 날] …"
   },
@@ -200,7 +200,7 @@
     "href": "posts/기록생활-리갈패드/index.html",
     "title": "기록생활: 리갈패드 편",
     "section": "",
-    "text": "이 사진들을 보고 시작하자.  \n크… 리갈패드가 멋있어보이는 순간이다. 그래서(?) 나도 리갈패드를 나의 메인 기록장으로 쓰기로 했다. 사실 이 결정의 90% 이상은 허준이 교수의 저 영상때문이다. 저걸 보고서도 어찌 리갈패드를 안 쓸 수 있단 말인가..!"
+    "text": "이 사진들을 보고 시작하자.  \n크… 리갈패드가 멋있어보이는 순간이다. 그래서(?) 나도 리갈패드를 나의 메인 기록장으로 쓰기로 했다. 사실 이 결정의 90% 이상은 허준이 교수의 저 영상때문이다. 저걸 보고서도 어찌 리갈패드를 안 쓸 수 있단 말인가..!\n리갈패드의 모듈능력은 생각의 자유로움을 반영할 수 있다. 니콜라스 루만의 제텔카스텐과도 같은 결이다. 이걸로 쭉 가보자(또 언제 마음이 바뀔진 모르겠지만)."
   },
   {
     "objectID": "posts/tools/index.html#section-1",
@@ -208,5 +208,82 @@
     "title": "기록생활: 연필 편",
     "section": "2023-09-23",
     "text": "2023-09-23\nPalomino 4B를 샀다. 테스트해본 결과 위의 모든 종이에서 4B가 B보다 더 좋았다. 나는 진한 검정색이 흐트러지지않고 일관되며 부드러운 연필을 좋아한다. 그런 의미에서 실망스럽게도 Faber-castel 9000은 탈락인데 이건 8B까지 써도 내가 원하는 진한 검정이 나오지 않는다. 그저 흐릿한 회색으로 느껴진다."
+  },
+  {
+    "objectID": "posts/Oliveira-2023-Artificial/index.html#abstract",
+    "href": "posts/Oliveira-2023-Artificial/index.html#abstract",
+    "title": "[논문리뷰] Artificial gamma ray spectra simulation using Generative Adversarial Networks (GANs) and Supervised Generative Networks (SGNs)",
+    "section": "Abstract",
+    "text": "Abstract"
+  },
+  {
+    "objectID": "posts/Oliveira-2023-Artificial/index.html#introduction",
+    "href": "posts/Oliveira-2023-Artificial/index.html#introduction",
+    "title": "[논문리뷰] Artificial gamma ray spectra simulation using Generative Adversarial Networks (GANs) and Supervised Generative Networks (SGNs)",
+    "section": "Introduction",
+    "text": "Introduction"
+  },
+  {
+    "objectID": "posts/기록생활-연필/index.html",
+    "href": "posts/기록생활-연필/index.html",
+    "title": "기록생활: 연필 편",
+    "section": "",
+    "text": "내가 가진 거의 모든 종이에서 최고의 성능을 내는 연필은 Palomino B다. Palomino 2B를 써보고싶은데 인터넷에 찾아보니 모든 사이트에서 품절이다. ㄷㄷ 인기가 많은건지 생산을 적게하는건지. 이거 다시 열리면 바로 사야겠는데?\n\n테스트해본 종이: 미도리MD, 무인양품 패스포트 노트, 무인양품 뒷배김없는 더블링 노트, 무인양품 B5 노트, 토모에리버 종이, A4 용지, 옥스포드 리갈패드\n비교한 연필: Faber-caster 9000 B, 2B, 6B, Faber-caster Perfect pencil, Blackwing MATE, Tombow MONO B, Staedtler Mars 5B, Midori B"
+  },
+  {
+    "objectID": "posts/기록생활-연필/index.html#section",
+    "href": "posts/기록생활-연필/index.html#section",
+    "title": "기록생활: 연필 편",
+    "section": "",
+    "text": "내가 가진 거의 모든 종이에서 최고의 성능을 내는 연필은 Palomino B다. Palomino 2B를 써보고싶은데 인터넷에 찾아보니 모든 사이트에서 품절이다. ㄷㄷ 인기가 많은건지 생산을 적게하는건지. 이거 다시 열리면 바로 사야겠는데?\n\n테스트해본 종이: 미도리MD, 무인양품 패스포트 노트, 무인양품 뒷배김없는 더블링 노트, 무인양품 B5 노트, 토모에리버 종이, A4 용지, 옥스포드 리갈패드\n비교한 연필: Faber-caster 9000 B, 2B, 6B, Faber-caster Perfect pencil, Blackwing MATE, Tombow MONO B, Staedtler Mars 5B, Midori B"
+  },
+  {
+    "objectID": "posts/기록생활-연필/index.html#section-1",
+    "href": "posts/기록생활-연필/index.html#section-1",
+    "title": "기록생활: 연필 편",
+    "section": "2023-09-23",
+    "text": "2023-09-23\nPalomino 4B를 샀다. 테스트해본 결과 위의 모든 종이에서 4B가 B보다 더 좋았다. 나는 진한 검정색이 흐트러지지않고 일관되며 부드러운 연필을 좋아한다. 그런 의미에서 실망스럽게도 Faber-castel 9000은 탈락인데 이건 8B까지 써도 내가 원하는 진한 검정이 나오지 않는다. 그저 흐릿한 회색으로 느껴진다."
+  },
+  {
+    "objectID": "posts/걷는 독서-박노해/index.html",
+    "href": "posts/걷는 독서-박노해/index.html",
+    "title": "<걷는 독서> 박노해",
+    "section": "",
+    "text": "Don’t hurry but never rest.\nEverything great has its own time."
+  },
+  {
+    "objectID": "posts/영어 표현/index.html",
+    "href": "posts/영어 표현/index.html",
+    "title": "논문영어 표현",
+    "section": "",
+    "text": "The authors would like to thank the editor and reviewers for the comments and recommendations, which has led to a significant improvement of the paper."
+  },
+  {
+    "objectID": "posts/영어 표현/index.html#리뷰어들에게-고마움-표현",
+    "href": "posts/영어 표현/index.html#리뷰어들에게-고마움-표현",
+    "title": "논문영어 표현",
+    "section": "",
+    "text": "The authors would like to thank the editor and reviewers for the comments and recommendations, which has led to a significant improvement of the paper."
+  },
+  {
+    "objectID": "posts/읽은논문 정리/index.html",
+    "href": "posts/읽은논문 정리/index.html",
+    "title": "읽은 논문",
+    "section": "",
+    "text": "최우선 목표는 매주 이 페이지를 보며 논문을 아래쪽으로 이동시키는 거다. 잠이 와도 힘들게 버티며 공부하는게 공부다. 잠온다고 다 자면 논문은 언제보나."
+  },
+  {
+    "objectID": "posts/읽은논문 정리/index.html#읽은-논문-목록",
+    "href": "posts/읽은논문 정리/index.html#읽은-논문-목록",
+    "title": "읽은 논문",
+    "section": "읽은 논문 목록",
+    "text": "읽은 논문 목록\n\n(읽은 날) 저자, 발행연도, 제목\n(2023-09-14) Gretton, 2008, A kernel method for the two-sample problem\n\n코드실행: https://www.kaggle.com/code/onurtunali/maximum-mean-discrepancy"
+  },
+  {
+    "objectID": "posts/읽은논문 정리/index.html#읽은-논문-중-요약자료-만든-논문-목록",
+    "href": "posts/읽은논문 정리/index.html#읽은-논문-중-요약자료-만든-논문-목록",
+    "title": "읽은 논문",
+    "section": "읽은 논문 중 요약자료 만든 논문 목록",
+    "text": "읽은 논문 중 요약자료 만든 논문 목록\n\n(읽은 날) 저자, 발행연도, 제목 [v1: 요약자료 v.1 만든 날] [v2: 요약자료 v.2 만든 날] …"
   }
 ]

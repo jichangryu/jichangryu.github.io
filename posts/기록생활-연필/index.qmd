@@ -3,7 +3,7 @@ title: "기록생활: 연필 편"
 author: "류지창"
 date: "2023-09-14"
 date-modified: last-modified
-categories: [tool, pencil]
+categories: [기록]
 toc: false
 # image:
 ---

@@ -1,9 +1,9 @@
 ---
-title: "English"
+title: "논문영어 표현"
 author: "류지창"
 date: "2023-09-03"
 # data-modified: "2023-09-02"
-categories: [english]
+categories: [영어]
 # image:
 toc: false
 ---

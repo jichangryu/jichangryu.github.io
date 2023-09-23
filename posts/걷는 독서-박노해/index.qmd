@@ -3,7 +3,7 @@ title: "<걷는 독서> 박노해"
 author: "류지창"
 date: "2023-09-03"
 data-modified: last-modified
-categories: [cite]
+categories: [수집]
 # image:
 toc: false
 ---

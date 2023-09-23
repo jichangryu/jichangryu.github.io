@@ -3,11 +3,11 @@ title: "노트 정리방법"
 author: "류지창"
 date: "2023-09-17"
 date-modified: last-modified
-categories: [cite]
+categories: [기록]
 toc: false
 # image:
 ---
-출처: https://sootax.co.kr/5225
+출처: [https://sootax.co.kr/5225](https://sootax.co.kr/5225)
 
 EBS 클래스에서 제공하는 '강유원의 책읽기와 글쓰기
 

@@ -2,15 +2,13 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/Oliveira-2023-Artificial/index.html",
       "/posts/기록생활-리갈패드/index.html",
       "/posts/강유원의-노트정리방법/index.html",
-      "/posts/papers/index.html",
-      "/posts/tools/index.html",
-      "/posts/books/index.html",
-      "/posts/English/index.html",
-      "/posts/걷는-독서-박노해/index.html",
-      "/posts/Oliveira-2023-Artificial/index.html",
-      "/posts/Log/index.html"
+      "/posts/기록생활-연필/index.html",
+      "/posts/읽은논문 정리/index.html",
+      "/posts/걷는 독서-박노해/index.html",
+      "/posts/영어 표현/index.html"
     ]
   }
 ]
