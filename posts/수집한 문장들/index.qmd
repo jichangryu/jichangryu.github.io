@@ -8,6 +8,6 @@ categories: [수집]
 toc: false
 ---
 
-### <걷는독서> 박노해
+## <걷는독서> 박노해
 Don't hurry but never rest.  
 Everything great has its own time.
