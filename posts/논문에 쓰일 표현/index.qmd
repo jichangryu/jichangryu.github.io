@@ -1,0 +1,20 @@
+---
+title: "논문에 쓰일 표현"
+author: "류지창"
+date: "2023-09-03"
+# data-modified: "2023-09-02"
+categories: [영어]
+# image:
+toc: false
+---
+
+## 리뷰어들에게 고마움 표현
+The authors would like to thank the editor and reviewers for the comments and recommendations, which has led to a significant improvement of the paper.
+
+
+## Conclusion
+- We have demonstrated a proof of concept using mediums similar to real waste.
+
+
+## VAE
+- embedding complex data into low dimensions
