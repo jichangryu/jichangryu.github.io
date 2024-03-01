@@ -3,11 +3,13 @@
     "listing": "/index.html",
     "items": [
       "/posts/2023년 기록/index.html",
+      "/posts/C++/Header 파일(.h)에 선언과 정의를 동시에 하지 않는 이유/index.html",
       "/posts/강유원의-노트정리방법/index.html",
       "/posts/기록생활-리갈패드/index.html",
       "/posts/기록생활-연필/index.html",
       "/posts/논문에 쓰일 표현/index.html",
-      "/posts/수집한 문장들/index.html"
+      "/posts/수집한 문장들/index.html",
+      "/posts/index.html"
     ]
   }
 ]

@@ -1,0 +1,11 @@
+{
+  "hash": "6f8813d5adfcef5ab78f8168bfd777a2",
+  "result": {
+    "markdown": "---\ntitle: \"C++\"\nauthor: \"류지창\"\ndate: \"2024-01-03\"\n# data-modified: \"2023-09-02\"\ncategories: [C++]\n# image:\ntoc: false\ncode-block-bg: true\ncode-block-border-left: \"#31BAE9\"\n---\n\n## Header 파일(.h)에 선언과 정의를 동시에 하지 않는 이유\nconstant를 선언하고 초기화까지 하면 이 상수를 여러 .cpp 파일에서 부를경우 서로 다른 메모리 주소를 가지게 되어 메모리 누수의 가능성이 있다. 고로, header 파일에서는 상수를 선언만 하고 같은 이름의 .cpp 파일을 만들어 거기에서 상수를 초기화하면 다른 .cpp 파일에서 동일한 상수를 초기화하더라도 같은 메모리 주소를 사용하게 된다. [홍정모 인프런 C++강의, 4.2장]\n\n```\n// MyConstants.h\n\nnamespace Constants\n{\n    extern const double pi;\n    extern const double gravity;\n}\n```\n\n\n```{c++}\n// MyConstants.cpp\n\nnamespace Constants\n{\n    extern const double pi{3.141592};\n    extern const double gravity{9.8};\n}\n```\n\n::: {.cell execution_count=1}\n``` {.python .cell-code}\nimport os\n\ndef name():\n    return to_you\n```\n:::\n\n\n",
+    "supporting": [
+      "index_files"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}

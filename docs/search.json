@@ -39,7 +39,7 @@
     "href": "index.html",
     "title": "Home",
     "section": "",
-    "text": "Title\n\n\n\n\n\n\n2023년 기록\n\n\n\n\n강유원의 노트 정리방법\n\n\n\n\n기록생활: 리갈패드 편\n\n\n\n\n기록생활: 연필 편\n\n\n\n\n논문에 쓰일 표현\n\n\n\n\n수집한 문장들\n\n\n\n\n\n\nNo matching items"
+    "text": "Title\n\n\n\n\n\n\n2023년 기록\n\n\n\n\nHeader 파일(.h)에 선언과 정의를 동시에 하지 않는 이유\n\n\n\n\n강유원의 노트 정리방법\n\n\n\n\n기록생활: 리갈패드 편\n\n\n\n\n기록생활: 연필 편\n\n\n\n\n논문에 쓰일 표현\n\n\n\n\n수집한 문장들\n\n\n\n\nundefined\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/English/index.html",
@@ -404,5 +404,40 @@
     "title": "2023년 기록",
     "section": "2023-12-11 월",
     "text": "2023-12-11 월\n아침에 나를 깨우는 힘은 무엇인가. 나는 세상을 깊게 이해하고 싶다. 그래서 남들이 가보지 못한 곳에 도달하는 탐험을 하고싶다. 예전엔 그게 공간적 탐험인줄 알았는데 나는 그것보다는 정신적 탐험을 더 즐긴다. 그리고 거기서 더 큰 만족을 느낀다. 세상의 구조, 좀 더 좁혀서 말하면 내가 하는 연구를 더 깊이 알고싶다. 거기서 발견한 보물을 논문이라는 이름으로 세상에 공개하고 프로그램으로 세상과 공유한다. 그게 나를 깨우는 원동력이다."
+  },
+  {
+    "objectID": "posts/C++/index.html",
+    "href": "posts/C++/index.html",
+    "title": "C++",
+    "section": "",
+    "text": "constant를 선언하고 초기화까지 하면 이 상수를 여러 .cpp 파일에서 부를경우 서로 다른 메모리 주소를 가지게 되어 메모리 누수의 가능성이 있다. 고로, header 파일에서는 상수를 선언만 하고 같은 이름의 .cpp 파일을 만들어 거기에서 상수를 초기화하면 다른 .cpp 파일에서 동일한 상수를 초기화하더라도 같은 메모리 주소를 사용하게 된다. [홍정모 인프런 C++강의, 4.2장]\n// MyConstants.h\nnamespace Constants\n{\n    extern const double pi;\n    extern const double gravity;\n}\n// MyConstants.cpp\nnamespace Constants\n{\n    extern const double pi{3.141592};\n    extern const double gravity{9.8};\n}"
+  },
+  {
+    "objectID": "posts/C++/index.html#header-파일.h에-선언과-정의를-동시에-하지-않는-이유",
+    "href": "posts/C++/index.html#header-파일.h에-선언과-정의를-동시에-하지-않는-이유",
+    "title": "C++",
+    "section": "",
+    "text": "constant를 선언하고 초기화까지 하면 이 상수를 여러 .cpp 파일에서 부를경우 서로 다른 메모리 주소를 가지게 되어 메모리 누수의 가능성이 있다. 고로, header 파일에서는 상수를 선언만 하고 같은 이름의 .cpp 파일을 만들어 거기에서 상수를 초기화하면 다른 .cpp 파일에서 동일한 상수를 초기화하더라도 같은 메모리 주소를 사용하게 된다. [홍정모 인프런 C++강의, 4.2장]\n// MyConstants.h\nnamespace Constants\n{\n    extern const double pi;\n    extern const double gravity;\n}\n// MyConstants.cpp\nnamespace Constants\n{\n    extern const double pi{3.141592};\n    extern const double gravity{9.8};\n}"
+  },
+  {
+    "objectID": "posts/C++/Header 파일(.h)에 선언과 정의를 동시에 하지 않는 이유/index.html",
+    "href": "posts/C++/Header 파일(.h)에 선언과 정의를 동시에 하지 않는 이유/index.html",
+    "title": "Header 파일(.h)에 선언과 정의를 동시에 하지 않는 이유",
+    "section": "",
+    "text": "constant를 선언하고 초기화까지 하면 이 상수를 여러 .cpp 파일에서 부를경우 서로 다른 메모리 주소를 가지게 되어 메모리 누수의 가능성이 있다. 고로, header 파일에서는 상수를 선언만 하고 같은 이름의 .cpp 파일을 만들어 거기에서 상수를 초기화하면 다른 .cpp 파일에서 동일한 상수를 초기화하더라도 같은 메모리 주소를 사용하게 된다. [홍정모 인프런 C++강의, 4.2장]\n// MyConstants.h\nnamespace Constants\n{\n    extern const double pi;\n    extern const double gravity;\n}\n// MyConstants.cpp\nnamespace Constants\n{\n    extern const double pi{3.141592};\n    extern const double gravity{9.8};\n}"
+  },
+  {
+    "objectID": "posts/C++/Header 파일(.h)에 선언과 정의를 동시에 하지 않는 이유/index.html#header-파일.h에-선언과-정의를-동시에-하지-않는-이유",
+    "href": "posts/C++/Header 파일(.h)에 선언과 정의를 동시에 하지 않는 이유/index.html#header-파일.h에-선언과-정의를-동시에-하지-않는-이유",
+    "title": "C++",
+    "section": "",
+    "text": "constant를 선언하고 초기화까지 하면 이 상수를 여러 .cpp 파일에서 부를경우 서로 다른 메모리 주소를 가지게 되어 메모리 누수의 가능성이 있다. 고로, header 파일에서는 상수를 선언만 하고 같은 이름의 .cpp 파일을 만들어 거기에서 상수를 초기화하면 다른 .cpp 파일에서 동일한 상수를 초기화하더라도 같은 메모리 주소를 사용하게 된다. [홍정모 인프런 C++강의, 4.2장]\n// MyConstants.h\nnamespace Constants\n{\n    extern const double pi;\n    extern const double gravity;\n}\n// MyConstants.cpp\nnamespace Constants\n{\n    extern const double pi{3.141592};\n    extern const double gravity{9.8};\n}"
+  },
+  {
+    "objectID": "posts/수집한 문장들/index.html#halmos-인터뷰",
+    "href": "posts/수집한 문장들/index.html#halmos-인터뷰",
+    "title": "수집한 문장들",
+    "section": "Halmos 인터뷰",
+    "text": "Halmos 인터뷰\nLooking it up in a book is giving up."
   }
 ]

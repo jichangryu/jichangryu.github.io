@@ -73,5 +73,14 @@
   },
   "posts/논문에 쓰일 표현/index.qmd": {
     "index.html": "7d82d05f"
+  },
+  "posts/C++/index.qmd": {
+    "index.html": "d64ceb43"
+  },
+  "posts/index.qmd": {
+    "index.html": "dae48f44"
+  },
+  "posts/C++/Header 파일(.h)에 선언과 정의를 동시에 하지 않는 이유/index.qmd": {
+    "index.html": "1579cfd2"
   }
 }

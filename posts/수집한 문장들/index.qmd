@@ -11,3 +11,6 @@ toc: false
 ## <걷는독서> 박노해
 Don't hurry but never rest.  
 Everything great has its own time.
+
+## Halmos 인터뷰
+Looking it up in a book is giving up.
