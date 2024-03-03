@@ -460,5 +460,19 @@
     "title": "Header 파일(.h)에 선언과 정의를 동시에 하지 않는 이유",
     "section": "",
     "text": "constant를 선언하고 초기화까지 하면 이 상수를 여러 .cpp 파일에서 부를경우 서로 다른 메모리 주소를 가지게 되어 메모리 누수의 가능성이 있다. 고로, header 파일에서는 상수를 선언만 하고 같은 이름의 .cpp 파일을 만들어 거기에서 상수를 초기화하면 다른 .cpp 파일에서 동일한 상수를 초기화하더라도 같은 메모리 주소를 사용하게 된다. [홍정모 인프런 C++강의, 4.2장]\n// MyConstants.h\nnamespace Constants\n{\n    extern const double pi;\n    extern const double gravity;\n}\n// MyConstants.cpp\nnamespace Constants\n{\n    extern const double pi{3.141592};\n    extern const double gravity{9.8};\n}"
+  },
+  {
+    "objectID": "posts/LaTeX/index.html",
+    "href": "posts/LaTeX/index.html",
+    "title": "LaTeX 자료모음",
+    "section": "",
+    "text": "\\begin{document}\n\\[\\begin{align*}\n  \\bra{a}       &= \\bra*{\\frac{a}{1}} \\\\\n  \\ket{a}       &= \\ket*{\\frac{a}{1}} \\\\\n  \\braket{a}{b} &= \\braket*{\\frac{a}{1}}{\\frac{b}{1}}\n\\end{align*}\\]"
+  },
+  {
+    "objectID": "posts/LaTeX/index.html#braket-vector-표기",
+    "href": "posts/LaTeX/index.html#braket-vector-표기",
+    "title": "LaTeX 자료모음",
+    "section": "",
+    "text": "\\begin{document}\n\\[\\begin{align*}\n  \\bra{a}       &= \\bra*{\\frac{a}{1}} \\\\\n  \\ket{a}       &= \\ket*{\\frac{a}{1}} \\\\\n  \\braket{a}{b} &= \\braket*{\\frac{a}{1}}{\\frac{b}{1}}\n\\end{align*}\\]"
   }
 ]
