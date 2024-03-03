@@ -1,0 +1,11 @@
+---
+title: "LaTeX 자료모음"
+author: "류지창"
+date: "2024-03-03"
+data-modified: last-modified
+categories: [LaTeX]
+# image:
+toc: false
+---
+
+## Braket vector 표기
