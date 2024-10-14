@@ -7,9 +7,9 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 <meta name="author" content="류지창">
-<meta name="dcterms.date" content="2024-01-03">
+<meta name="dcterms.date" content="2024-10-14">
 
-<title>Home - Header 파일(.h)에 선언과 정의를 동시에 하지 않는 이유</title>
+<title>Home - [English] present, display, show, depict, illustrate</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -66,7 +66,7 @@ ul.task-list li input[type="checkbox"] {
 <link rel="stylesheet" href="../../styles.css">
 </head>
 
-<body class="nav-fixed fullcontent">
+<body class="nav-fixed">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -103,15 +103,17 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        
+    </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Header 파일(.h)에 선언과 정의를 동시에 하지 않는 이유</h1>
+<h1 class="title">[English] present, display, show, depict, illustrate</h1>
   <div class="quarto-categories">
-    <div class="quarto-category">C++</div>
+    <div class="quarto-category">English</div>
   </div>
   </div>
 
@@ -129,29 +131,22 @@ ul.task-list li input[type="checkbox"] {
     <div>
     <div class="quarto-title-meta-heading">Published</div>
     <div class="quarto-title-meta-contents">
-      <p class="date">January 3, 2024</p>
+      <p class="date">October 14, 2024</p>
     </div>
   </div>
   
+    <div>
+    <div class="quarto-title-meta-heading">Modified</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date-modified">October 14, 2024</p>
+    </div>
+  </div>
     
   </div>
   
 
 </header>
 
-<p>constant를 선언하고 초기화까지 하면 이 상수를 여러 .cpp 파일에서 부를경우 서로 다른 메모리 주소를 가지게 되어 메모리 누수의 가능성이 있다. 고로, header 파일에서는 상수를 선언만 하고 같은 이름의 .cpp 파일을 만들어 거기에서 상수를 초기화하면 다른 .cpp 파일에서 동일한 상수를 초기화하더라도 같은 메모리 주소를 사용하게 된다. [홍정모 인프런 C++강의, 4.2장]</p>
-<pre class="{c++}"><code>// MyConstants.h
-namespace Constants
-{
-    extern const double pi;
-    extern const double gravity;
-}</code></pre>
-<pre class="{c++}"><code>// MyConstants.cpp
-namespace Constants
-{
-    extern const double pi{3.141592};
-    extern const double gravity{9.8};
-}</code></pre>
 
 
 
