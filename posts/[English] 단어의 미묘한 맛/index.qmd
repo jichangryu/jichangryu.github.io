@@ -1,5 +1,5 @@
 ---
-title: "[English] present, display, show, depict, illustrate"
+title: "[English] 단어의 미묘한 맛"
 author: "류지창"
 date: "2024-10-14"
 date-modified: last-modified
@@ -7,5 +7,8 @@ categories: [English]
 toc: true
 # image:
 ---
+
+
+## present, display, show, depict, illustrate
 
 
