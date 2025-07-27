@@ -3,16 +3,13 @@
     <head>
         <meta charset="UTF-8">
         <title>racioactive decay</title>
-        <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-        <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
-        <style>
-        /* MathJax v3 CommonHTML 블록 수식 왼쪽정렬 */
-        .mjx-block {
-            display: block !important;
-            text-align: left !important;
-            margin: 0.8em 0 !important;
-        }
-        </style>
+        <script type="text/x-mathjax-config">
+        MathJax.Hub.Config({
+            displayAlign: 'left',   // left, center (default), right
+            displayIndent: '0em'    // how much to indent from the left
+        });
+        </script>
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@2/MathJax.js?config=TeX-AMS_CHTML"></script>
     </head>
 
 <body>
