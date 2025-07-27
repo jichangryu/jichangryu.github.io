@@ -14,64 +14,58 @@
 
 <body>
 <!-- 1. 부모 핵종 붕괴 미분 방정식 -->
- 윗 세대 핵종이 있다. 
-<p>
-    $$
-    \frac{dN_{1}(t)}{dt} \;=\; -\lambda_{1}\,N_{1}(t)
-    \frac{dN_{1}(t)}{dt} = -\lambda_{1} N_{1}(t)
-    $$
-</p>
+윗 세대 핵종이 있다.
+<br>
+$$
+\frac{dN_{1}(t)}{dt} = -\lambda_{1}N_{1}(t)
+$$
 
 <!-- 2. 자식 핵종 생성·붕괴 미분 방정식 -->
 <p>
     $$
-    \frac{dN_{2}(t)}{dt} \;=\; \lambda_{1}\,N_{1}(t)\;-\;\lambda_{2}\,N_{2}(t)
+    \frac{dN_{2}(t)}{dt} = \lambda_{1}N_{1}(t) - \lambda_{2}N_{2}(t)
     $$
 </p>
 
 <!-- 3. 부모 핵종 해 -->
 <p>
     $$
-    N_{1}(t) \;=\; N_{1}(0)\,e^{-\lambda_{1}t}
+    N_{1}(t) = N_{1}(0)e^{-\lambda_{1}t}
     $$
 </p>
 
 <!-- 4a. 자식 핵종 일반 해 (초깃값 N₂(0) 포함) -->
 <p>
     $$
-    N_{2}(t) \;=\;
-    \frac{\lambda_{1}\,N_{1}(0)}{\lambda_{2}-\lambda_{1}}
-    \Bigl(e^{-\lambda_{1}t}-e^{-\lambda_{2}t}\Bigr)\;+\;N_{2}(0)\,e^{-\lambda_{2}t}
+    N_{2}(t) = \frac{\lambda_{1}N_{1}(0)}{\lambda_{2}-\lambda_{1}} \Bigl(e^{-\lambda_{1}t}-e^{-\lambda_{2}t}\Bigr) + N_{2}(0)e^{-\lambda_{2}t}
     $$
 </p>
 
 <!-- 4b. 초기 자식핵종이 없는 경우 (N₂(0)=0) -->
 <p>
     $$
-    N_{2}(t) \;=\;
-    \frac{\lambda_{1}\,N_{1}(0)}{\lambda_{2}-\lambda_{1}}
-    \Bigl(e^{-\lambda_{1}t}-e^{-\lambda_{2}t}\Bigr)
+    N_{2}(t) = \frac{\lambda_{1}\,N_{1}(0)}{\lambda_{2}-\lambda_{1}} \Bigl(e^{-\lambda_{1}t}-e^{-\lambda_{2}t}\Bigr)
     $$
 </p>
 
 <!-- 5. 평형 조건 -->
 <p>
     $$
-    \frac{dN_{2}(t)}{dt}=0 \quad\Longrightarrow\quad \lambda_{1}\,N_{1}(t)=\lambda_{2}\,N_{2}(t)
+    \frac{dN_{2}(t)}{dt}=0 \quad\Longrightarrow\quad \lambda_{1}N_{1}(t)=\lambda_{2}N_{2}(t)
     $$
 </p>
 
 <!-- 6. 과도(transient) 평형 비율 -->
 <p>
     $$
-    \frac{N_{2}}{N_{1}} \;=\; \frac{\lambda_{1}}{\lambda_{2}}
+    \frac{N_{2}}{N_{1}} = \frac{\lambda_{1}}{\lambda_{2}}
     $$
 </p>
 
 <!-- 7. 평형 도달 시간 -->
 <p>
     $$
-    t_{\mathrm{eq}} =\frac{\ln\bigl(\lambda_{2}/\lambda_{1}\bigr)}{\lambda_{2}-\lambda_{1}}
+    t_{\mathrm{eq}} = \frac{\ln\bigl(\lambda_{2}/\lambda_{1}\bigr)}{\lambda_{2}-\lambda_{1}}
     $$
 </p>
 
@@ -85,7 +79,7 @@
 <!-- 9. 일반 연쇄 Bateman 해 (k단계) -->
 <p>
     $$
-    N_{k}(t) =\sum_{i=1}^{k}N_{i}(0)\,\Biggl[\,\lambda_{i}\,\prod_{\substack{j=1\\j\neq i}}^{k}\frac{1}{\lambda_{j}-\lambda_{i}}\Biggr]\,e^{-\lambda_{i}t}
+    N_{k}(t) = \sum_{i=1}^{k}N_{i}(0)\,\Biggl[\,\lambda_{i}\,\prod_{\substack{j=1 \\ j\neq i}}^{k}\frac{1}{\lambda_{j}-\lambda_{i}}\Biggr]e^{-\lambda_{i}t}
     $$
 </p>
 
