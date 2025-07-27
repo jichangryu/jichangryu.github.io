@@ -3,14 +3,24 @@
     <head>
         <meta charset="UTF-8">
         <title>racioactive decay</title>
-        <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-        <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+        <script>
+        window.MathJax = {
+        options: {
+            displayAlign: 'left',     // default: "center"
+            displayIndent: '0'        // indent 없앰
+        }
+        };
+        </script>
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
     </head>
+
 <body>
 <!-- 1. 부모 핵종 붕괴 미분 방정식 -->
+ 윗 세대 핵종이 있다. 
 <p>
     $$
     \frac{dN_{1}(t)}{dt} \;=\; -\lambda_{1}\,N_{1}(t)
+    \frac{dN_{1}(t)}{dt} = -\lambda_{1} N_{1}(t)
     $$
 </p>
 
